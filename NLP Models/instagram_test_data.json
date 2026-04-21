@@ -1,0 +1,2502 @@
+[
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️ ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea? !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "GET MORE VIEWS ON YOUR REELS! USE OUR TOOL. LINK IN BIO. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I JUST WON A FREE IPHONE! CLICK THE LINK IN MY BIO TO GET YOURS! 📱 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "GET VERIFIED ON INSTAGRAM TODAY! FAST AND RELIABLE SERVICE. DM NOW. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "DISCOUNT CODE 'SAVE50' FOR ALL ITEMS IN OUR SHOP! LIMITED TIME. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "LOSE 10KG IN 2 WEEKS WITH THIS SECRET TEA! LINK IN BIO. ☕ LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "WANT TO EARN $5000 A WEEK FROM HOME? DM ME FOR INFO! 💰 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕ LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "GET MORE VIEWS ON YOUR REELS! USE OUR TOOL. LINK IN BIO. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "CHECK OUT MY PROFILE FOR AMAZING DEALS ON FOLLOWERS! 🚀 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'M A SUGAR MOMMY LOOKING FOR A SUGAR BABY. DM ME IF INTERESTED. 💋 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨ DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕ !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I JUST WON A FREE IPHONE! CLICK THE LINK IN MY BIO TO GET YOURS! 📱 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️ ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋 !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "LOSE 10KG IN 2 WEEKS WITH THIS SECRET TEA! LINK IN BIO. ☕ !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "INVEST $100 AND GET $1000 BACK IN 24 HOURS! GUARANTEED. 📈 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "YOUR PROFILE IS AMAZING! WE WANT TO COLLABORATE. CHECK YOUR DMS! 📩 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "BECOME A BRAND AMBASSADOR! WE LOVE YOUR STYLE. DM US! ✨ !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee? ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "YOUR PROFILE IS AMAZING! WE WANT TO COLLABORATE. CHECK YOUR DMS! 📩 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋 ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️ 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕ LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "WANT TO EARN $5000 A WEEK FROM HOME? DM ME FOR INFO! 💰 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨ DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️ 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee? ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Become a brand ambassador! We love your style. DM us! ✨",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee? 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Get verified on Instagram today! Fast and reliable service. DM now. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Cheap followers and likes! Best prices on the market. Visit our site.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is so creative. How did you come up with the idea?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I MADE $2000 TODAY THANKS TO @CRYPTO_EXPERT_TRADE! CHECK HIM OUT. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "FOLLOW ME AND I'LL FOLLOW YOU BACK INSTANTLY! 💯 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "FOLLOW ME AND I'LL FOLLOW YOU BACK INSTANTLY! 💯 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from? 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I'm a sugar mommy looking for a sugar baby. DM me if interested. 💋 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Visit my website for the best crypto signals! Don't miss out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time. LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I've been there too! Did you try the local coffee?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Such a beautiful family. God bless you all.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I love your outfit! Where is it from?",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "LOSE 10KG IN 2 WEEKS WITH THIS SECRET TEA! LINK IN BIO. ☕ LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Love the vibe of this post. Very aesthetic.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️ 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "INVEST $100 AND GET $1000 BACK IN 24 HOURS! GUARANTEED. 📈 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "That looks delicious! Recipe please? 😋",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I just won a free iPhone! Click the link in my bio to get yours! 📱 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕ LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Send this to @Trend_Setters_Daily for a feature! 📸",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Want to earn $5000 a week from home? DM me for info! 💰",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "So inspiring! Thanks for the motivation today. ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "YOUR PROFILE IS AMAZING! WE WANT TO COLLABORATE. CHECK YOUR DMS! 📩 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. ..",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕ !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I need to visit this place someday. Thanks for sharing! 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "This is exactly what I needed to see today. ❤️",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Where was this taken? It looks stunning! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Your profile is amazing! We want to collaborate. Check your DMs! 📩 LINK IN BIO",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Promote it on @Global_Influencers_Hub! They have 1M followers. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Discount code 'SAVE50' for all items in our shop! Limited time.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "The colors in this shot are just perfect.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Keep up the great work! You're doing amazing. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "FOLLOW ME AND I'LL FOLLOW YOU BACK INSTANTLY! 💯 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Hey! I have a business proposal for you. Check your message requests. DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "This really resonates with me. Well said!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Congratulations on your achievement! Well deserved. 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Can't wait for your next post! Always looking forward to them. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Absolutely gorgeous! The view is breathtaking. !!!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "You look so happy in this one! Keep shining.",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Invest $100 and get $1000 back in 24 hours! Guaranteed. 📈 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Boost your engagement now! Real followers, no bots. Link in bio. !!!",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better! ✨",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Free giveaway! Just click the link and enter your details. 🎁 DM ME",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Great content as always. Your style is unique. 🙌",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Get more views on your reels! Use our tool. Link in bio.",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Your photography skills are getting better and better!",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Amazing photo! Love the lighting here. 😍 🔥",
+        "label": "ham",
+        "source": "Instagram_Test"
+    },
+    {
+        "text": "Check out my profile for amazing deals on followers! 🚀 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "I made $2000 today thanks to @Crypto_Expert_Trade! Check him out. 🔥🔥🔥",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Follow me and I'll follow you back instantly! 💯",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    },
+    {
+        "text": "Lose 10kg in 2 weeks with this secret tea! Link in bio. ☕",
+        "label": "spam",
+        "source": "Instagram_Spam_Test"
+    }
+]
